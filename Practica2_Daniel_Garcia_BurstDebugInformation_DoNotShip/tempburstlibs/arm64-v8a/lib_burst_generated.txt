@@ -1,0 +1,18 @@
+Library: C:\Users\templ\Unity_RA_RV\Practica1\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--platform=Android
+--minimum-os-version=
+--backend=burst-llvm-21
+--target=ARMV8A_AARCH64
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--target-framework=NetFramework
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Users\templ\Unity_RA_RV\Practica1\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer
+--decode-folder=C:\Users\templ\Unity_RA_RV\Practica1\Library\Burst
+--output=C:\Users\templ\Unity_RA_RV\Practica1\Temp\BurstOutput\tempburstlibs\arm64-v8a\lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+
+
